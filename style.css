@@ -3662,10 +3662,34 @@ textarea.focus,
 	top: 0;
 	padding: 2px;
 }
-.top-container{
+.spas-top-container{
 	margin: 0px;
 	background-color: black;
-	background-image: url("Webp.net-resizeimage (8).jpg");
+	background-image: url("spas.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 50px ;
+  }
+  .hotels-top-container{
+	margin: 0px;
+	background-color: black;
+	background-image: url("hotels.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 50px ;
+  }
+  .hospitals-top-container{
+	margin: 0px;
+	background-color: black;
+	background-image: url("hospitals.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 50px ;
+  }
+  .paper-top-container{
+	margin: 0px;
+	background-color: black;
+	background-image: url("paper.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding-bottom: 50px ;
